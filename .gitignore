@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env
+.env
+
+# YouTube OAuth
+config/client_secret.json
+config/token.json
+
+# Videos
+videos/**/*.mp4
+videos/**/*.mov
+videos/**/*.webm
+
+# Logs
+logs/
+*.log
+
+# macOS
+.DS_Store

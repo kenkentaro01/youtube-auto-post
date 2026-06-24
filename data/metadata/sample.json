@@ -1,0 +1,8 @@
+{
+  "video_path": "videos/input/sample.mp4",
+  "title": "テスト投稿",
+  "description": "PythonからYouTube APIで投稿するテストです。",
+  "tags": ["テスト", "YouTube API"],
+  "categoryId": "22",
+  "privacyStatus": "private"
+}
