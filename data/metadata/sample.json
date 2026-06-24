@@ -1,8 +1,8 @@
 {
-  "video_path": "videos/input/sample.mp4",
+  "video_path": "videos/input/DJI_20241005151344_0004_D.MP4",
   "title": "テスト投稿",
   "description": "PythonからYouTube APIで投稿するテストです。",
   "tags": ["テスト", "YouTube API"],
-  "categoryId": "22",
+  "categoryId": "19",
   "privacyStatus": "private"
 }
