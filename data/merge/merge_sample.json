@@ -1,0 +1,10 @@
+{
+  "id": "train_001",
+  "merge": true,
+  "input_videos": [
+    "videos/input/train_001.mp4",
+    "videos/input/ambulance_001.mp4",
+    "videos/input/firetruck_001.mp4"
+  ],
+  "output_path": "videos/merged/train_001_merged.mp4"
+}

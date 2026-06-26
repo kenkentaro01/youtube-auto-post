@@ -1,0 +1,14 @@
+[
+  {
+    "id": "vehicle_test_001",
+    "merge": {
+      "enabled": true,
+      "output_path": "videos/merged/vehicle_test_001.mp4"
+    },
+    "input_videos": [
+      "videos/input/train_001.mp4",
+      "videos/input/ambulance_001.mp4",
+      "videos/input/firetruck_001.mp4"
+    ]
+  }
+]
