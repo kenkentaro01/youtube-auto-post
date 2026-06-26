@@ -1,0 +1,26 @@
+[
+  {
+    "id": "train_001",
+    "prompt": "A colorful cartoon train for children running through a bright city.",
+    "model": "t2v-2.4-faster",
+    "duration": 5,
+    "aspect_ratio": "9:16",
+    "output_path": "videos/train_001.mp4"
+  },
+  {
+    "id": "ambulance_001",
+    "prompt": "A cute cartoon ambulance with flashing lights for children.",
+    "model": "t2v-2.4-faster",
+    "duration": 5,
+    "aspect_ratio": "9:16",
+    "output_path": "videos/ambulance_001.mp4"
+  },
+  {
+    "id": "firetruck_001",
+    "prompt": "A friendly cartoon fire truck driving through a colorful town.",
+    "model": "t2v-2.4-faster",
+    "duration": 5,
+    "aspect_ratio": "9:16",
+    "output_path": "videos/firetruck_001.mp4"
+  }
+]

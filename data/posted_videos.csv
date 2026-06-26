@@ -1,2 +1,5 @@
 video_id,title,video_path,uploaded_at
 lozQ_BPN77I,テスト投稿,videos/input/DJI_20241005151344_0004_D.MP4,2026-06-25T01:53:11.240265
+ltEEcSbY3z0,ピーポーピーポー！救急車がやってきた！,videos/input/ambulance_001.mp4,data/metadata/pending/ambulance_001.json,2026-06-26T03:00:58.584003
+lEb_gh07NMM,消防車が出動！,videos/input/firetruck_001.mp4,data/metadata/pending/firetruck_001.json,2026-06-26T03:01:01.271880
+NpwvwPxwgX8,カラフル電車が走るよ！,videos/input/train_001.mp4,data/metadata/pending/train_001.json,2026-06-26T03:01:04.281969
